@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/Algorithms-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
 </p>
 <p align="center">
-🌎 Computer Scientist student at Tecnologico de Monterrey 🌎
+🌎 Computer Science student at Tecnologico de Monterrey 🌎
 </p>
 <p align="center">
 🌱 Check some of my recent projects🌱
