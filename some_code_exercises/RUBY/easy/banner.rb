@@ -1,11 +1,14 @@
+# frozen_string_literal: true
+
+
 class Human < ApplicationRecord
   has_one :pc
   has_many :dreams
 
   vaidates :keyboard, presence: true
-  @name = 'Daniel'
+  validates :mouse, presence: true
 
-  def say_hello?
-    current_user.pana?
+  def set_name
+    self.name = 'Daniel Enqz'
   end
 end
