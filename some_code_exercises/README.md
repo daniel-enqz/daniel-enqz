@@ -9,9 +9,9 @@
 </p>
 
 ## Running Time Rules (fastest(1) to slower(6)) (VARIES DEPENDING ON THE INPUT) ⏩
-1. Constant functions `37`
-   - For example when you find in first itaration, we say O(1)
-
+1. O(1)
+   - When you find in first itaration
+   
 3. Logarithmic functions `log n`
    - When an algorithm decreases the magnitude of its input size each time.
    - Time increases lineary, while input(n) exponentially. (10 = 1s) (100 - 2s) (10000 - 4s)
