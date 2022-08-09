@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/Intro2.png" />
-</p>
-
 <h3 align="center">Welcome! Visitor number.....:eyes:</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"></p>
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
@@ -45,7 +41,7 @@
 <img src="https://img.shields.io/badge/Algorithms-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
 </p>
 <p align="center">
-🌎 Computer Scientist student at Tecnologico de Monterrey 🌎
+🌎 Computer Science student at Tecnologico de Monterrey 🌎
 </p>
 <p align="center">
 🌱 Check some of my recent projects🌱
