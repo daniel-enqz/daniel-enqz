@@ -58,18 +58,14 @@
 <a href="https://github.com/daniel-enqz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-enqz&langs_count=10&layout=compact&hide_border=true&title_color=0099ff&icon_color=0099ff" /></a>
 </p>
 
-<h1 align="center">Join the Discord Channel and Twich streams!</h1>
-<p align="center">
-<a href="https://discord.gg/n4PYXTkk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.twitch.tv/daniel_enqz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-</p>
-
 <h2 align="center">Where you can find me....</h2>
 <p align="center">
 <a href="https://www.instagram.com/daniel__enqz/?hl=en"><img src="https://img.shields.io/badge/daniel_enqz-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/Daniel__enqz"><img src="https://img.shields.io/badge/daniel_enqz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://vm.tiktok.com/ZMLjnxQKp/"><img src="https://img.shields.io/badge/daniel_enqz-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://discord.gg/n4PYXTkk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.twitch.tv/daniel_enqz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 </p>
 
 <h3 align="center">Where to reach me....</h2>
