@@ -2,7 +2,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"></p>
 <p align="center"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
 
-# Tech Stack
+# What I like to use...
 <p>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
