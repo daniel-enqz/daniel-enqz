@@ -39,14 +39,6 @@
 >- [Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
 </p>
 
-<h1 align="center">STATS</h1>
-<p align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=daniel-enqz&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></a>
-<br><br>
-<a href="https://github.com/daniel-enqz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-enqz&langs_count=10&layout=compact&hide_border=true&title_color=0099ff&icon_color=0099ff" /></a>
-</p>
-
-
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-enr%C3%ADquez-monjar%C3%A1s-10043721b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
