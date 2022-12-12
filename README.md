@@ -43,7 +43,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-enr%C3%ADquez-monjar%C3%A1s-10043721b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dan17.em@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://twitter.com/Daniel__enqz"><img src="https://img.shields.io/badge/daniel_enqz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
