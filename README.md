@@ -41,9 +41,6 @@
 <img src="https://img.shields.io/badge/Algorithms-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
 </p>
 <p align="center">
-🌎 Computer Science student 🌎
-</p>
-<p align="center">
 🌱 Check some of my recent projects🌱
 
 >- [Akord.me](https://github.com/daniel-enqz/akord) | Simply get together<br>
