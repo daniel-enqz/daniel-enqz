@@ -47,5 +47,6 @@
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-enqz
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-enqz">
