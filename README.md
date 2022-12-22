@@ -40,7 +40,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel-enqz&theme=vue" width="350">
+  <img src="https://github-profile-trophy.vercel.app/?username=daniel-enqz" width="350">
 </p>
 
 
