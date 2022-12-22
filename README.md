@@ -39,7 +39,10 @@
 >- [Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
 </p>
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={daniel-enqz}&theme=vue
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={daniel-enqz}&theme=vue" width="350"></a>
+</p>
+
 
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
