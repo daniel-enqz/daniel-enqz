@@ -39,6 +39,7 @@
 >- [Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
 </p>
 
+
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-enr%C3%ADquez-monjar%C3%A1s-10043721b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
