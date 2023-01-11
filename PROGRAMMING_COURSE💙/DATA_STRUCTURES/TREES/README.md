@@ -1,6 +1,9 @@
 # What are Trees?
 > A tree is a data structure that allows us to represent different forms of hierarchical data.
 
+### Start the next program with ruby interface.rb
+![Screenshot 2023-01-10 at 21 01 41](https://user-images.githubusercontent.com/72522628/211708031-f0c30c3f-e01d-49aa-a4ce-527e58e23993.jpg)
+
 ### We usually classify trees is by their branching factor, a number that describes how nodes multiply as we add more levels to the tree. 
 - [Ale Miralles](https://medium.com/amiralles/mastering-data-structures-in-ruby-binary-trees-e7c001050a52)
 
