@@ -1,3 +1,12 @@
+# Writing Clean code 🥇
+
+## Basic Rules
+- ✅ **"Code describes itself"**
+- ✅ **"Less than 100 lines class"**
+- ✅ **"Methods with 5 lines or less"**
+- ✅ **"Methdos with 4 arguments or less"**
+- ✅ **"A controllers instantiates only one object"**
+
 ## Intention Reveleaing Method
 ✅ **"Remember to use methods that describe themselves. Using if Statements."** <br>
 ```ruby
