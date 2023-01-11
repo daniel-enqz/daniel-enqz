@@ -27,7 +27,7 @@
 🌱 Recent projects 🌱
 
 >- [💙 Programming Course](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
->- [💙 BINARY TREE IN RUBY](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES) | Builded a command line binary tree explanation. Make your own tree!!!<br>
+>- [🍀 BINARY TREE IN RUBY](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES) | Builded a command line binary tree explanation. Make your own tree!!!<br>
 https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES/README.md
 >- [Akord.me](https://github.com/daniel-enqz/akord) | Simply get together<br>
 >- [AirBnB clone](https://github.com/daniel-enqz/studio) but with Music Studios!!!<br>
