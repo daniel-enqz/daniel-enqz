@@ -4,7 +4,7 @@
 ## Basic Rules
 ✅ **"When writing algorithms, time complexity and memory (space) are in balance"** <br>
 ✅ **"We use asymptotic notation to exclude less important cases, and ust focuses on running time"** <br>
-✅ **[Guide in writing clean code](https://github.com/daniel-enqz/daniel-enqz/tree/main/some_code_exercises/writing%20clean%20code)** <br>
+✅ **[Guide in writing clean code](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/👍CLEAN_CODE)** <br>
 ✅ **[DATA STRUCTURES](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES)**
 
 <p align="center">
