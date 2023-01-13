@@ -28,11 +28,10 @@
 
 >- [💙 Programming Course](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
 >- [🌳 BINARY TREE IN RUBY](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES) | Builded a command line binary tree explanation. Make your own tree!!!<br>
-https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/DATA_STRUCTURES/TREES/README.md
 >- [📆 Akord.me](https://github.com/daniel-enqz/akord) | Simply get together<br>
 >- [🏠 AirBnB clone](https://github.com/daniel-enqz/studio) but with Music Studios!!!<br>
 >- [🍿 Share your favourite movies](https://github.com/daniel-enqz/rails-watch-list) with your friends!!!<br>
->- [👍 Ruby Refactor](https://github.com/daniel-enqz/rails-watch-list) with your friends!!!<br>
+>- [👍 Ruby Refactor](https://github.com/daniel-enqz/GildedRoseRefactor) | Exercise in ruby to follow good practices and design patterns<br>
 >- [🍔 UberEats Architecture](https://github.com/daniel-enqz/daniel-enqz/tree/main/projects/FoodDelivery) | Builded command line application using MVC model and mirroring ruby on rails behavior, to manage restaurant orders.<br>
 >- [♻️ Dotfiles Config](https://github.com/daniel-enqz/dotfiles) | Worked on my terminal dotfiles config files using Shell.<br>
 >- [🥇 Grading System](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/💻Excercises/C/readability.c) | Created "C" command-line program that grades writing ability. Computed by the Coleman-Liau formula, rounded to the nearest integer.<br>
