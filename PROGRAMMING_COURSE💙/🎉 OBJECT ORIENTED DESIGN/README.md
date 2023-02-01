@@ -127,4 +127,28 @@ test_bird_flight(penguin) # Output: "Sorry, I cannot fly. I am a penguin."
 ```
 
 >(DIP) 
+```ruby
+# High level module
+class UserService
+  def initialize(user_repository)
+    @user_repository = user_repository
+  end
 
+  def get_user(id)
+    @user_repository.find(id)
+  end
+end
+
+# Low-level module
+class UserRepository
+  def find(id)
+    # database query to fetch user
+  end
+end
+
+# Client code
+user_repository = UserRepository.new
+user_service = UserService.new(user_repository)
+user = user_service.get_user(1)
+
+```
