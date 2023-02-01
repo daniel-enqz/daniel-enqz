@@ -100,4 +100,28 @@ class Admin < User
 end
 ```
 
-()
+>(LSP) In the next example we have a Penguin and Bird class, the Penguin class inherits from the Bird class. The Penguin class is a subtype of the Bird class. The Penguin class can be replaced with the Bird class without altering the correctness of the program.
+
+```ruby
+class Bird
+  def fly
+    puts "I am flying!"
+  end
+end
+
+class Penguin < Bird
+  def fly
+    puts "Sorry, I cannot fly. I am a penguin."
+  end
+end
+
+def test_bird_flight(bird)
+  bird.fly
+end
+
+bird = Bird.new
+penguin = Penguin.new
+
+test_bird_flight(bird) # Output: "I am flying!"
+test_bird_flight(penguin) # Output: "Sorry, I cannot fly. I am a penguin."
+```
