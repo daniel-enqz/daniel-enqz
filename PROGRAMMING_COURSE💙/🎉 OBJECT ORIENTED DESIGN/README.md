@@ -126,7 +126,7 @@ test_bird_flight(bird) # Output: "I am flying!"
 test_bird_flight(penguin) # Output: "Sorry, I cannot fly. I am a penguin."
 ```
 
->(DIP) 
+>(DIP) In the next example, the High Level module UserService depends on an abstaction (an instance of the low level UserRepository) and not directly on the User Repository.
 ```ruby
 # High level module
 class UserService
