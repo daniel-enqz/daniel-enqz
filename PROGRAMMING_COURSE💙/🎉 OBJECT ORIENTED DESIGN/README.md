@@ -125,3 +125,6 @@ penguin = Penguin.new
 test_bird_flight(bird) # Output: "I am flying!"
 test_bird_flight(penguin) # Output: "Sorry, I cannot fly. I am a penguin."
 ```
+
+>(DIP) 
+
