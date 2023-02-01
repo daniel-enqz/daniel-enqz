@@ -60,3 +60,44 @@ p basketballer.heigth # 2.1
 | Liskov Substitution Principle | Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program. |
 | Interface Segregation Principle | Many client-specific interfaces are better than one general-purpose interface. |
 | Dependency Inversion Principle | Depend upon abstractions. Do not depend upon concrete classes. |
+
+# Examples 📘
+
+>(SRP) In the next example the class `User` has one main responsibility, which is to save the user to the database.
+>(OCP) We can extend the class `User` to create a new class `Admin` and override the method `save` to save the admin to the database.
+>(ISP) We are adding the interface send_email only to admins and not to users. This is because the users don't need to send emails.
+
+```ruby
+module EmailSender
+  def send_email
+    # code to send email
+  end
+end
+
+class User
+  def initialize(name, email, password)
+    @name = name
+    @email = email
+    @password = password
+  end
+
+  def save
+    # save user to database
+  end
+end
+
+class Admin < User
+  include EmailSender
+
+  def initialize(name, email, password)
+    super(name, email, password)
+  end
+
+  def save
+    super
+    # save admin to database
+  end
+end
+```
+
+()
