@@ -37,4 +37,15 @@ def Basketballer < Athlete
   end
 end
 
+footballer = Footballer.new("Messi", "Football", 1.7)
+basketballer = Basketballer.new("Lebron", "Basketball", 2.0)
+
+p footballer.play # Im playing football
+p basketballer.play # Im playing basketball
+
+p footballer.name # Messi
+p basketballer.name # Lebron
+
+basketballer.heigth = 2.1
+p basketballer.heigth # 2.1
 ```
