@@ -17,7 +17,7 @@ class Athlete
   def initialize(name, sport, heigth)
     @name = name
     @sport = sport
-    @heigth = heigth 
+    @heigth = heigth
   end
 
   def play
@@ -26,6 +26,12 @@ class Athlete
 end
 
 def Footballer < Athlete
+  def play
+    puts "Im playing #{sport}"
+  end
+end
+
+def Basketballer < Athlete
   def play
     puts "Im playing #{sport}"
   end
