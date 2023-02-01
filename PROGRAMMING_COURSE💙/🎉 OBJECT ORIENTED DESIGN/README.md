@@ -52,6 +52,14 @@ p basketballer.heigth # 2.1
 
 ## Design Principles
 
+### Essentials 👆
+| Acronym | Definition |
+| --- | --- |
+| DRY | Dont Repeat Yourself |
+| YAGNI | You aint gonna need it |
+| KISS | Keep it Simple, Stupid |
+
+
 ### About SOLID 🌊
 | Concept | Definition |
 | --- | --- |
@@ -60,6 +68,8 @@ p basketballer.heigth # 2.1
 | Liskov Substitution Principle | Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program. |
 | Interface Segregation Principle | Many client-specific interfaces are better than one general-purpose interface. |
 | Dependency Inversion Principle | Depend upon abstractions. Do not depend upon concrete classes. |
+
+
 
 ### Examples 📘
 
