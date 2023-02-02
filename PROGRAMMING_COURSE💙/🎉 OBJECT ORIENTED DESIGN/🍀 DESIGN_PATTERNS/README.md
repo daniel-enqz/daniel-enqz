@@ -44,3 +44,24 @@ class CustomerDecorator
   end 
 end
 ```
+
+### 🦆 Singleton Pattern:
+A Pattern with one global access point and ensures it cannot be instantiated
+
+In this example, the Logger class implements a singleton pattern to ensure that there is only one instance of a Logger in the application. The class method instance returns the single instance of the class, and the private class method new ensures that no new instance can be created.
+
+
+```ruby
+class Logger
+  @@instance = Logger.new
+
+  def self.instance
+    @@instance
+  end
+
+  private_class_method :new
+end
+
+Logger.new # NoMethodError
+Logger.instance # <Logger:0x00000001046911a8>
+```
