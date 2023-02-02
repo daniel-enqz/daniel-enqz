@@ -50,7 +50,7 @@ Defines a one to many relationship between objects.
 We will have one subject and observers, the subject will mantain the observers by notifying/changing them.
 So in this case we can call the update method on all observers and send them the instance of BankAccount
 ```ruby
-class BackAccount
+class BankAccount
   attr_accessor :observers
   attr_reader   :balance
 
