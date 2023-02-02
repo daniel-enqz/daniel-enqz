@@ -261,6 +261,8 @@ puts hash_table.key?("middle_name") # Output: false
   - Applications: Representing social networks, finding the shortest path in a city map, and solving puzzles and games.
 Example Code:
 
+This creates a graph with three nodes and three edges. Node 1 is connected to node 2, node 2 is connected to node 3, and node 3 is connected to node 1.
+
 ```ruby
 class Node
   attr_accessor :value, neighboors
@@ -269,6 +271,14 @@ class Node
     @neighboors = []
   end
 end
+
+node1 = Node.new(1)
+node2 = Node.new(2)
+node3 = Node.new(3)
+
+node1.neighbors << node2
+node2.neighbors << node3
+node3.neighbors << node1
 ```
 
 ## [SETS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
