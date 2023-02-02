@@ -48,6 +48,7 @@ end
 ### 👀 Singleton Pattern:
 Defines a one to many relationship between objects.
 We will have one subject and observers, the subject will mantain the observers by notifying/changing them.
+So in this case we can call the update method on all observers and send them the instance of BankAccount
 ```ruby
 class BackAccount
   attr_accessor :observers
@@ -70,7 +71,13 @@ class BackAccount
     @balance *= amount
     notify_observers
   end
-end 
+end
+
+class BankAccountObserver
+  def update(bank_account)
+    puts "Bank account balance has changed to: #{bank_account.balance}"
+  end
+end
 
 ```
 
