@@ -37,3 +37,100 @@ Example Code:
 
 Example Code:
 
+```ruby
+class Node
+  attr_accessor :data, :node
+
+  def initialize(data, next_node = nil)
+    @data = data
+    @next_node = next_node
+  end
+end
+
+class LinkedList
+  attr_accessor :head
+
+  def initialize(head = nil)
+    @head = head
+  end
+  
+  def add_node(data)
+    new_node = Node.new(data)
+    new_node.next_node = @head
+    @head = new_node
+  end
+  
+   def delete_node(data)
+     current_node = @head
+     if current_node.data == data
+        @head = current_node.next_node
+     else
+        while current_node.next_node
+          if current_node.next_node.data == data
+            current_node.next_node == current_node.next_node.next_node
+            break
+          end
+          current_node = current_node.next_node
+        end
+      end
+   end
+   
+   def find_node(data)
+      current_node = @head
+      while current_node
+          return current_node if current_node.data = data
+
+          current_node = current_node.next_node
+      end
+   end
+   
+   def traverse
+      current_node = @head
+      while current_node
+         yield current_node.data
+
+         current_node = current_node.next_node
+       end
+   end
+   
+   
+   linked_list = LinkedList.new
+   linked_list.add_node(1)
+   linked_list.add_node(2)
+   linked_list.add_node(3)
+   linked_list.add_node(7)
+    
+   linked_list.find_node(2)
+   linked_list.delete_node(3)
+   
+   linked_list.traverse
+end 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
