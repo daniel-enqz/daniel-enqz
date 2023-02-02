@@ -103,7 +103,7 @@ class LinkedList
    linked_list.find_node(2)
    linked_list.delete_node(3)
    
-   linked_list.traverse
+   linked_list.traverse { |node| puts node}
 end 
 ```
 
