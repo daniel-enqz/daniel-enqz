@@ -54,7 +54,7 @@ class BankAccount
   attr_accessor :observers
   attr_reader   :balance
 
-  def initilize(balance)
+  def initialize(balance)
     @balance = balance
     @observers = []
   end
