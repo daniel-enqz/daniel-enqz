@@ -155,22 +155,22 @@ end
 Example Code:
 
 ```ruby
-
-arr  = [1,2,3,[4,5],6]
+arr = [1,2,3,[4,5],6]
 flat = []
 
 until arr.empty?
-  thing = arr.pop
-  if thing.is_a? Array
-    thing.each { |i| arr << i }
+  element = arr.pop
+
+  if element.is_a? Array
+    element.each { |i| arr << element }
+    
   else
-    flat << thing
+    flat << element
   end
-end
+ end
+
 p flat
 # [6, 5, 4, 3, 2, 1]
-
-
 ```
 
 
