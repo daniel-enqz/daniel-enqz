@@ -21,7 +21,7 @@ A class that can modify oibjects without modyfing the main class
 
 ```ruby
 class Customer
-  attr_accesor :name, :age, :articles
+  attr_accessor :name, :age, :articles
 
   def initialize(name, age, articles = [])
      @name = name
