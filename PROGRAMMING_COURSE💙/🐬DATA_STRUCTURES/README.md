@@ -78,7 +78,7 @@ class LinkedList
    def find_node(data)
       current_node = @head
       while current_node
-          return current_node if current_node.data = data
+          return current_node if current_node.data == data
 
           current_node = current_node.next_node
       end
