@@ -63,7 +63,7 @@ class BackAccount
   end
 
   def notify_observers
-    @observers.each { |obs| obs.update(self)
+    @observers.each { |obs| obs.update(self) }
   end
   
   def deposit(amount)
