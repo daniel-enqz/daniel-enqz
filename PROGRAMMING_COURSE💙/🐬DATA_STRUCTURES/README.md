@@ -146,15 +146,32 @@ end
 
 
 
+## [Stacks](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
+
+  - Definition: A stack is a data structure that follows the Last-In-First-Out (LIFO) principle, meaning the last element to be inserted is the first to be removed.
+  - Types of linked lists: push, pop, peek, and check if the stack is empty.
+  - Common Operations: Implementing undo/redo functionality, solving expressions using postfix and prefix notations, and checking for balanced parentheses in an expression.
+
+Example Code:
+
+```ruby
+
+arr  = [1,2,3,[4,5],6]
+flat = []
+
+until arr.empty?
+  thing = arr.pop
+  if thing.is_a? Array
+    thing.each { |i| arr << i }
+  else
+    flat << thing
+  end
+end
+p flat
+# [6, 5, 4, 3, 2, 1]
 
 
-
-
-
-
-
-
-
+```
 
 
 
