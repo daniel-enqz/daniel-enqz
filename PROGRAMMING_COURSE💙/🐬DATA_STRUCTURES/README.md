@@ -57,15 +57,29 @@ class LinkedList
   attr_accessor :head
 
   def initialize
-    @heaed = nil
+    @head = nil
+  end
+
+  def find(value)
+    node = @head
+
+    return node if node.value == value
+
+    until theres_no_right?(node)
+      return node if node.value == value
+
+      node = node.next_node
+    end
+
+    puts "#{value} not found"
   end
 
   def find_tail
     node = @head
 
-    return node if theres_not_right?(node)
+    return node if theres_no_right?(node)
 
-    until theres_not_right?(node)
+    until theres_no_right?(node)
       node = node.next_node
     end
 
@@ -80,9 +94,8 @@ class LinkedList
     end
   end
 
-
   def append_after(target, value)
-    node                     = find(target)
+    node = find(target)
 
     return unless node
 
@@ -91,57 +104,44 @@ class LinkedList
     node.next_node.next_node = old_next
   end
 
-  def find(value)
+  def delete(value)
     node = @head
 
-    return false if theres_not_right?(node)
-    return node if node.value == value
-
-    until theres_not_right?(node)
-      return node if node.value == value
-      node = node.next_node
-    end
-  end
-
-  def delete(value)
-    if @head.value == value
-      @head = head.next_node
+    if node.value == value
+      @head = node.next_node
       return
     end
 
-    node           = find_before(value)
-    node.next_node = node.next_node.next_node
-  end
+    until theres_no_right?(node)
+      if node.next_node.value == value
+        node.next_node = node.next_node.next_node
+        return
+      end
 
-  def find_before(value)
-    node = @head
-
-    return false if theres_not_right?(node)
-    return node  if node.next_node.value == value
-
-    while (node = node.next)
-      return node if node.next && node.next.value == value
+      node = node.next_node
     end
+
+    puts "#{value} not found, could not be deleted"
   end
 
   def print
     node = @head
+    return puts "No items in this LinkedList" if node.nil?
 
-    until theres_not_right?(node)
-      puts node.to_s
+    puts node.to_s
+
+    until theres_no_right?(node)
       node = node.next_node
+      puts node.to_s
     end
   end
 
-
   private
 
-  def theres_not_right?(node)
+  def theres_no_right?(node)
     !node.next_node
   end
 end
-
-
 ```
 
 
