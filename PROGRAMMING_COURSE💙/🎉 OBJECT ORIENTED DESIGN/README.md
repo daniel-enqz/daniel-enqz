@@ -5,6 +5,7 @@
 | Concept | Definition |
 | --- | --- |
 | Classes and Objects | Class is a blueprint for creating objects, objects are instances of classes |
+| Inheritance | When classes inherit behavior and state from parent class |
 | Encapsulation | Hiding the implementation details of a class from the outside world, using private or read/write methods. |
 | Abstraction | When methods are rewritten in subclasses. |
 | Polymorphism | When they take many forms depending on the class, so we can say depends on abstraction, as well. |
