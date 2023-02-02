@@ -67,7 +67,7 @@ class LinkedList
      else
         while current_node.next_node
           if current_node.next_node.data == data
-            current_node.next_node == current_node.next_node.next_node
+            current_node.next_node = current_node.next_node.next_node
             break
           end
           current_node = current_node.next_node
