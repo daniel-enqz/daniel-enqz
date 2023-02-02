@@ -262,6 +262,13 @@ puts hash_table.key?("middle_name") # Output: false
 Example Code:
 
 ```ruby
+class Node
+  attr_accessor :value, neighboors
+  def initialize(value)
+    @value      = value
+    @neighboors = []
+  end
+end
 ```
 
 ## [SETS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
