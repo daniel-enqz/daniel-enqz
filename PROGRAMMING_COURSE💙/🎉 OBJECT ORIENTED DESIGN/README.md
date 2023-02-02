@@ -163,5 +163,3 @@ user_service = UserService.new(user_repository)
 user = user_service.get_user(1)
 
 ```
-### NEXT UP: DESIGN PATTERNS
-Design patterns: creational, structural, behavioral patterns (e.g. Singleton, Factory, Decorator, Observer, MVC)
