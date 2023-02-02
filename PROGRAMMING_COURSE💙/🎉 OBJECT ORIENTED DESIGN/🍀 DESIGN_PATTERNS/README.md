@@ -60,7 +60,7 @@ class BankAccount
   end
   
   def add_observer(observer)
-    @observers.add(observer)
+    @observers << (observer)
   end
 
   def notify_observers
