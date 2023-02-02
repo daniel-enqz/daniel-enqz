@@ -202,5 +202,25 @@ que.pop(true)
 ```
 
 
+## [TREES](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
+
+  - Definition: A tree is a non linear data structure that consists of nodes and edges connecting them.
+  - Types of trees: binary trees, binary search trees, AVL trees, and Heaps.
+  - Operations: insert, delete, search, and traverse elements.
+  - Applications: Implementing file systems, solving mathematical expressions, and searching for elements in a data set.
+Example Code:
+
+```ruby
+class Node
+  def initialize(value, left, right)
+    @value      = value
+    @left_node  = left_node
+    @right_node = right_node
+  end
+end
+```
+
+
+
 
 
