@@ -290,5 +290,25 @@ node3.neighbors << node1
 Example Code:
 
 ```ruby
+# Creating a set
+set = Set.new([1, 2, 3, 4, 5])
+
+# Adding elements to the set
+set.add(6)
+
+# Removing elements from the set
+set.delete(3)
+
+# Checking the size of the set
+puts set.size # Output: 5
+
+# Checking if an element is in the set
+puts set.include?(3) # Output: false
+puts set.include?(6) # Output: true
+
+# Union and intersection of sets
+set2 = Set.new([3, 4, 5, 6, 7])
+puts (set | set2).to_a # Output: [1, 2, 4, 5, 6, 7]
+puts (set & set2).to_a # Output: [4, 5, 6]
 ```
 
