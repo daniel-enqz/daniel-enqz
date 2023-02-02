@@ -287,6 +287,11 @@ node3.neighbors << node1
   - Operations: insert, delete, search, union, intersection, and difference.
   - Applications: Removing duplicates from a data set, solving mathematical problems like finding the number of unique elements in a data set.
 
+### Array vs Set
+- Order: Arrays are ordered, meaning that the elements are stored in a specific order and can be accessed by their index. Sets, on the other hand, are unordered, so the elements have no specific order and cannot be accessed by index.
+- Duplicates: Arrays allow duplicate elements, meaning that you can store the same element multiple times in an array. Sets, on the other hand, do not allow duplicate elements. When you add an element to a set, it will only be stored once, even if you try to add it multiple times.
+- Searching: Searching for elements in an array can be slower than searching for elements in a set, especially for large arrays. This is because arrays are ordered, so finding an element requires looping through the entire array until you find the element you're looking for. With sets, you can perform searches in O(1) time, as sets use a hash table data structure to store the elements.
+
 Example Code:
 
 ```ruby
