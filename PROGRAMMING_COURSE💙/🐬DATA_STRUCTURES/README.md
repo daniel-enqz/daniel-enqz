@@ -212,12 +212,17 @@ Example Code:
 
 ```ruby
 class Node
-  def initialize(value, left, right)
+  attr_accessor :value, left, right
+  def initialize(value, left = nil, right = nil)
     @value      = value
     @left_node  = left_node
     @right_node = right_node
   end
 end
+
+node = Node.new(1)
+node.left = Node.new(2)
+node.right = Node.new(3)
 ```
 
 
