@@ -39,69 +39,74 @@ Example Code:
 
 ```ruby
 # Creating a node class
-class Node
-  attr_accessor :value, :next_node
 
-  def initialize(value, next_node = nil)
-    @value = value
+class Node
+  attr_accessor :data, :next_node
+
+  def initialize(data, next_node = nil)
+    @data = data
     @next_node = next_node
   end
 end
 
-# Creating a linked list class
 class LinkedList
   attr_accessor :head
 
   def initialize(head = nil)
     @head = head
   end
-
-  # Insert a node at the beginning of the linked list
-  def insert(value)
-    node = Node.new(value, @head)
-    @head = node
+  
+  def add_node(data)
+    new_node = Node.new(data)
+    new_node.next_node = @head
+    @head = new_node
   end
-
-  # Delete a node with a given value
-  def delete(value)
-    current = @head
-    previous = nil
-
-    while current
-      if current.value == value
-        previous.next_node = current.next_node
-        break
+  
+   def delete_node(data)
+     current_node = @head
+     if current_node.data == data
+        @head = current_node.next_node
+     else
+        while current_node.next_node
+          if current_node.next_node.data == data
+            current_node.next_node == current_node.next_node.next_node
+            break
+          end
+          current_node = current_node.next_node
+        end
       end
-      previous = current
-      current = current.next_node
-    end
-  end
+   end
+   
+   def find_node(data)
+      current_node = @head
+      while current_node
+          return current_node if current_node.data = data
 
-  # Find a node with a given value
-  def find(value)
-    current = @head
+          current_node = current_node.next_node
+      end
+   end
+   
+   def traverse
+      current_node = @head
+      while current_node
+         yield current_node.data
 
-    while current
-      return current if current.value == value
-      current = current.next_node
-    end
-
-    nil
-  end
-
-  # Traverse the linked list and return all values
-  def traverse
-    values = []
-    current = @head
-
-    while current
-      values << current.value
-      current = current.next_node
-    end
-
-    values
-  end
-end
+         current_node = current_node.next_node
+       end
+   end
+   
+   
+   linked_list = LinkedList.new
+   linked_list.add_node(1)
+   linked_list.add_node(2)
+   linked_list.add_node(3)
+   linked_list.add_node(7)
+    
+   linked_list.find_node(2)
+   linked_list.delete_node(3)
+   
+   linked_list.traverse { |node| puts node}
+end 
    
    
 linked_list = LinkedList.new
