@@ -174,16 +174,32 @@ p flat
 ```
 
 
+## [Queues](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
 
+  - Definition: A queue is a data structure that follows the First-In-First-Out (FIFO) principle, meaning the first element to be inserted is the first to be removed.
+  - Operations: enqueue, dequeue, peek, and check if the queue is empty.
+  - Applications: Implementing a printer queue, scheduling algorithms, and Breadth First Search (BFS) algorithm in Graphs.
 
+Example Code:
 
+```ruby
+arr = []
+arr.unishift(2)
+arr.unshift(5)
 
+arr.pop # => 2
 
+# Using Queue or SizedQueue
+que = SizedQueue.new(5)
 
+que.push(:cheese)
+que.push(:eggs)
 
+que.pop # => :cheese
 
-
-
+# You can pass a true value to raise an exception in ase the queue is empty
+que.pop(true)
+```
 
 
 
