@@ -255,9 +255,10 @@ puts hash_table.key?("middle_name") # Output: false
 
 ## [GRAPHS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
 
-  - Definition: A hash table is a data structure that stores elements in an array-based structure, but with an index generated using a hash function.
-  - Operations: insert, search, delete, and update elements.
-  - Applications: Implementing dictionaries and symbol tables, caching, and implementing a spell checker.
+  - Definition: A graph is a non-linear data structure that consists of nodes (vertices) and edges connecting them.
+  - Types of Graphs: Directed and undirected graphs, weighted and unweighted graphs, and connected and disconnected graphs.
+  - Operations: add vertex, add edge, remove vertex, remove edge, and traverse the graph.
+  - Applications: Representing social networks, finding the shortest path in a city map, and solving puzzles and games.
 Example Code:
 
 ```ruby
@@ -265,9 +266,10 @@ Example Code:
 
 ## [SETS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
 
-  - Definition: A hash table is a data structure that stores elements in an array-based structure, but with an index generated using a hash function.
-  - Operations: insert, search, delete, and update elements.
-  - Applications: Implementing dictionaries and symbol tables, caching, and implementing a spell checker.
+  - Definition: A set is an unordered collection of unique elements.
+  - Operations: insert, delete, search, union, intersection, and difference.
+  - Applications: Removing duplicates from a data set, solving mathematical problems like finding the number of unique elements in a data set.
+
 Example Code:
 
 ```ruby
