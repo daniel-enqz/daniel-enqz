@@ -1,6 +1,16 @@
 # OOP 🤔
 
-## Basics
+
+### Analyzing the right way
+
+|Diagram Type | Description |
+|-------------|-------------|
+|Class diagrams| Show the classes, objects, and relationships between them in a system, including attributes and methods of each class.|
+|Sequence diagrams| Show the interactions between objects over time, including the order of messages and the objects that initiate and receive them.|
+|State diagrams| Show the states of an object over time, including the conditions that trigger changes in state and the actions that occur in response.|
+|Use case diagrams| Show the relationships between actors and use cases, which are high-level descriptions of a system's functions and features.|
+
+### Basics
 
 | Concept | Definition |
 | --- | --- |
