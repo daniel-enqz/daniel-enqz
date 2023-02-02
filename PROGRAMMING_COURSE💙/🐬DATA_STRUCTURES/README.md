@@ -97,11 +97,6 @@ class LinkedList
     return false if theres_not_right?(node)
     return node if node.value == value
 
-    while (node = node.next_node)
-      return node if node.value == value
-    end
-
-
     until theres_not_right?(node)
       return node if node.value == value
       node = node.next_node
