@@ -225,7 +225,51 @@ node.left = Node.new(2)
 node.right = Node.new(3)
 ```
 
+## [HASH TABLES](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
 
+  - Definition: A hash table is a data structure that stores elements in an array-based structure, but with an index generated using a hash function.
+  - Operations: insert, search, delete, and update elements.
+  - Applications: Implementing dictionaries and symbol tables, caching, and implementing a spell checker.
+Example Code:
 
+```ruby
+# Creating a hash table
+hash_table = Hash.new
+hash_table["first_name"] = "John"
+hash_table["last_name"] = "Doe"
+hash_table["age"] = 30
 
+# Accessing values from the hash table
+puts hash_table["first_name"] # Output: John
+puts hash_table["last_name"] # Output: Doe
+puts hash_table["age"] # Output: 30
+
+# Updating values in the hash table
+hash_table["age"] = 31
+puts hash_table["age"] # Output: 31
+
+# Checking if a key exists in the hash table
+puts hash_table.key?("first_name") # Output: true
+puts hash_table.key?("middle_name") # Output: false
+```
+
+## [GRAPHS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
+
+  - Definition: A hash table is a data structure that stores elements in an array-based structure, but with an index generated using a hash function.
+  - Operations: insert, search, delete, and update elements.
+  - Applications: Implementing dictionaries and symbol tables, caching, and implementing a spell checker.
+Example Code:
+
+```ruby
+```
+
+## [SETS](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES)
+
+  - Definition: A hash table is a data structure that stores elements in an array-based structure, but with an index generated using a hash function.
+  - Operations: insert, search, delete, and update elements.
+  - Applications: Implementing dictionaries and symbol tables, caching, and implementing a spell checker.
+Example Code:
+
+```ruby
+```
 
