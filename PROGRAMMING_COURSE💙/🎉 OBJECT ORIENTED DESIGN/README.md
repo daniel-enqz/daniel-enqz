@@ -121,7 +121,7 @@ class Admin < User
 end
 ```
 
->(LSP) In the next example we have a Penguin and Bird class, the Penguin class inherits from the Bird class. The Penguin class is a subtype of the Bird class. The Penguin class can be replaced with the Bird class without altering the correctness of the program.
+>(LSP) In the next example we have a Penguin and Bird class, the Penguin class inherits from the Bird class. The Penguin class is a subtype of the Bird class. The Bird class method can be replaced with the Penguin one, without altering the correctness of the program.
 
 ```ruby
 class Bird
