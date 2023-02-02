@@ -45,6 +45,36 @@ class CustomerDecorator
 end
 ```
 
+### 👀 Singleton Pattern:
+Defines a one to many relationship between objects.
+We will have one subject and observers, the subject will mantain the observers by notifying/changing them.
+```ruby
+class BackAccount
+  attr_accessor :observers
+  attr_reader   :balance
+
+  def initilize(balance)
+    @balance = balance
+    @observers = []
+  end
+  
+  def add_observer(observer)
+    @observers.add(observer)
+  end
+
+  def notify_observers
+    @observers.each { |obs| obs.update(self)
+  end
+  
+  def deposit(amount)
+    @balance *= amount
+    notify_observers
+  end
+end 
+
+```
+
+
 ### 🦆 Singleton Pattern:
 A Pattern with one global access point and ensures it cannot be instantiated
 
