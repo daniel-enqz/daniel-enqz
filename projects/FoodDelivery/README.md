@@ -3,8 +3,8 @@
 
 # How to start the application?
 
-- Only download this repo, and from the terminal run:
-1.- `ruby lib/app.rb`
+- ### Only download this repo, and from the terminal run:<br>
+1.- `ruby lib/app.rb`<br>
+2.- Play with the app! (Feel free to visit and explore the code) <br>
 
-2.- Play with the app! (Feel free to visit and explore the code)
-
+![Screenshot 2023-02-16 at 13 45 26](https://user-images.githubusercontent.com/72522628/219471478-08512174-ad26-436d-97d1-77d911e506df.jpg)
