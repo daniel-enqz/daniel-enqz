@@ -1,4 +1,5 @@
 require_relative "../views/sessions_view"
+require "pry-byebug"
 
 class SessionsController
   def initialize(employee_repository)

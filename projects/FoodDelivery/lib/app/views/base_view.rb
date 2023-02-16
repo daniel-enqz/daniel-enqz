@@ -1,4 +1,6 @@
 class BaseView
+  require 'pry-byebug'
+
   def ask_for(string)
     puts "What's the #{string}"
     print ">"

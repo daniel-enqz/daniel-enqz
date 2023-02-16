@@ -1,4 +1,6 @@
 class BaseController
+  require 'pry-byebug'
+
   def list
     all = @repository.all
     @view.display(all)
@@ -12,13 +14,12 @@ class BaseController
   end
 
   def edit
-    # list
-    # index = @view.ask_for_index
-    # to_edit = @repository.edit_customer(index)
-    # name = @view.ask_for("customer name?")
-    # address = @view.ask_for("customer address?")
-    # to_edit.name = name
-    # to_edit.address = address
-    # list
+    list
+    index = @view.ask_for_index
+    new_name = @view.ask_for('new name?')
+    new_price = @view.ask_for('new price?').to_i
+    new_meal = Meal.new(name: new_name, price: new_price)
+    @repository.create(new_meal)
+    @repository.remove(index)
   end
 end

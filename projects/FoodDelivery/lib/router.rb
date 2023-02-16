@@ -29,7 +29,7 @@ class Router
     case action
     when 1 then @meals_controller.add
     when 2 then @meals_controller.list
-    # when 3 then @meals_controller.edit
+    when 3 then @meals_controller.edit
     when 4 then @meals_controller.delete
     end
     route_manager_action_(action)
@@ -78,7 +78,7 @@ class Router
   def display_manager_tasks_
     puts "5 - 🐢Add new customer"
     puts "6 - 🌊List all customers"
-    puts "7 - 🐎Edit a customer(COMMING SOON)"
+    # puts "7 - 🐎Edit a customer(COMMING SOON)"
     puts "8 - 🥊Delete a customer"
     puts "9 - 🥝Add a new order"
     puts "10- ❌List all the undelivered orders"
