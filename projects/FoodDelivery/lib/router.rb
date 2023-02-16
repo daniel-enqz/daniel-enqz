@@ -70,7 +70,7 @@ class Router
     puts "What do you want to do next?"
     puts "1 - 🧃Add new meal"
     puts "2 - 🍽List all meals"
-    puts "3 - 🥢Edit a meal(COMMING SOON)"
+    puts "3 - 🥢Edit a meal"
     puts "4 - 🥊Delete a meal"
     display_manager_tasks_
   end
@@ -78,7 +78,7 @@ class Router
   def display_manager_tasks_
     puts "5 - 🐢Add new customer"
     puts "6 - 🌊List all customers"
-    # puts "7 - 🐎Edit a customer(COMMING SOON)"
+    puts "7 - 🐎Edit a customer(COMMING SOON)"
     puts "8 - 🥊Delete a customer"
     puts "9 - 🥝Add a new order"
     puts "10- ❌List all the undelivered orders"
