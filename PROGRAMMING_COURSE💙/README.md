@@ -1,5 +1,5 @@
 # Algorithms and Data Structures 🥇
-
+<p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz/PROGRAMMING_COURSE💙}/count.svg"></p>
 
 ## Basic Rules
 ✅ **"When writing algorithms, time complexity and memory (space) are in balance"** <br>
