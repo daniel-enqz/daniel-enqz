@@ -42,8 +42,6 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-enqz&theme=blue-green">
-
 
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
