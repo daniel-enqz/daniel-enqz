@@ -108,12 +108,18 @@ for ( let i = o; i < array.length, i++) {
 >   - O(nlogn)
 >   - Ω(n)
 > - **_Space Complexty:_**
->   - (edit here)
+>   - O(logn) (average case)
+>   - O(n) (worst case)
+> - **_Explanation:_**
+>   - `Quicksort is a divide-and-conquer algorithm that selects a 'pivot' element from the array and partitions the other elements into two groups - those less than the pivot and those greater than the pivot. It then recursively sorts the sub-arrays.`
 
 > **Merge Sort:**
+
 > - **_Complexity:_**
->   - (edit here)
+>   - Θ(nlogn)
+>   - O(nlogn)
+>   - Ω(nlogn)
 > - **_Space Complexty:_**
->   - (edit here)
+>   - O(n)
 > - **_Explanation:_**
->   - `Partions array into halves and merges two halves in linear time.`
+>   - `Merge Sort is a divide-and-conquer algorithm that repeatedly splits the array into halves until each sub-array contains only one element. It then merges the sub-arrays in linear time, combining them into a single, sorted array.`
