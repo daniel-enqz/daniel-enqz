@@ -86,7 +86,7 @@ p basketballer.heigth # 2.1
 
 > (SRP) In the next example the class `User` has one main responsibility, which is to save the user to the database. <br>
 > (OCP) We can extend the class `User` to create a new class `Admin` and override the method `save` to save the admin to the database. <br>
-> (ISP) We are adding the interface send_email only to admins and not to users. This is because the users don't need to send emails. <br>
+> (ISP) We are adding the interface send_email only to admins and not to users. This is because the Users don't need to send emails. <br>
 
 ```ruby
 module EmailSender
