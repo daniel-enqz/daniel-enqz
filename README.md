@@ -24,6 +24,9 @@
 >- [🌳 BINARY TREE IN RUBY](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES) | Builded a command line binary tree explanation. Make your own tree!!!<br>
 >- [📆 Akord.me](https://github.com/daniel-enqz/akord) | Simply get together<br>
 >- [🏠 AirBnB clone](https://github.com/daniel-enqz/studio) but with Music Studios!!!<br>
+>- [🐳 Docker Tutorial](https://github.com/daniel-enqz/ruby-corners-100/tree/master/DOCKER_IN_RAILS%20) but with Music Studios!!!<br>
+  
+
 >- [🍿 Share your favourite movies](https://github.com/daniel-enqz/rails-watch-list) with your friends!!!<br>
 >- [👍 Ruby Refactor](https://github.com/daniel-enqz/GildedRoseRefactor) | Exercise in ruby to follow good practices and design patterns<br>
 >- [🍔 UberEats Architecture](https://github.com/daniel-enqz/daniel-enqz/tree/main/projects/FoodDelivery) | Builded command line application using MVC model and mirroring ruby on rails behavior, to manage restaurant orders.<br>
