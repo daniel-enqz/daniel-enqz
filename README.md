@@ -7,7 +7,7 @@
   <br>
   Like playing with languages such as Go, Python and Ruby.
   <br>
-  Enjoy planning and creating application architecture features.
+  Enjoy planning and developing application architecture features.
   <br>
   Passionate for creating programming tutorials and enhacing my dotfiles setup.
   <br>
