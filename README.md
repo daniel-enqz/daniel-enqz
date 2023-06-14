@@ -9,7 +9,7 @@
   <br>
   Enjoy planning and developing application architecture features.
   <br>
-  Passionate for creating programming tutorials and enhacing my dotfiles setup.
+  Passionate for creating programming tutorials and enhancing my dotfiles setup.
   <br>
   Lead Teacher at LeWagon 
   <br>
