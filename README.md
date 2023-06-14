@@ -3,6 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
 
 <p align="center">
+  Ruby on Rails Developer, currently learning more about Cloud Computing, like playing with languages such as Go, Python and Ruby. 
 🌱 Recent projects 🌱
 
 >- [💙 Programming Course](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
