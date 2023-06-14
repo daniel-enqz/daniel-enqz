@@ -4,7 +4,7 @@
 
 <p align="center">
   Ruby on Rails Developer, currently learning more about Cloud Computing, like playing with languages such as Go, Python and Ruby
-  
+  <br>
   <br>
 🌱 Recent projects 🌱
 
