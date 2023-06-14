@@ -4,7 +4,9 @@
 
 <p align="center">
   Ruby on Rails Developer, currently learning more about Cloud Computing.
+  <br>
   Like playing with languages such as Go, Python and Ruby.
+  <br>
   Enjoy planning and creating application architecture features.
   <br>
   <br>
