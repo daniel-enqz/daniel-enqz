@@ -3,15 +3,15 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
 
 <p align="center">
-  Ruby on Rails Developer, currently learning more about Cloud Computing.
+  ☁️ Ruby on Rails Developer, currently learning more about Cloud Computing. ☁️
   <br>
-  Like playing with languages such as Go, Python and Ruby.
+  🐠 Like playing with languages such as Go, Python and Ruby. 🐠
   <br>
-  Enjoy planning and developing application architecture features.
+  ✈️ Enjoy planning and developing application architecture features. ✈️
   <br>
-  Passionate for creating programming tutorials and enhancing my dotfiles setup.
+  🍁 Passionate for creating programming tutorials and enhancing my dotfiles setup. 🍁
   <br>
-  Lead Teacher at LeWagon 
+  🚚 Lead Teacher at LeWagon 🚚
   <br>
   <br>
 🌱 Recent projects 🌱
