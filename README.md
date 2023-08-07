@@ -11,7 +11,7 @@
   <br>
   🍁 Passionate for creating programming tutorials and enhancing my dotfiles setup. 🍁
   <br>
-  🚚 Lead Teacher at LeWagon 🚚
+  🚚 Lead Teacher at LeWagon and Software Dev at Kublau 🚚
   <br>
   <br>
 🌱 Recent projects 🌱
