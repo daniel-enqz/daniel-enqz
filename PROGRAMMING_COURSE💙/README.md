@@ -71,6 +71,8 @@ def print_sums(arr):
             print(arr[i] + arr[j])
 ```
 
+> The Big O notation abstracts away the exact constant factors and lower-order terms, focusing on the most significant terms that define how the function grows. 
+
 This is a great illustration of how the specific details of a loop can affect the actual running time, even though the Big O notation might be the same. It's these nuances that can make algorithm analysis both challenging and interesting!
 
 7. O(2^n): Exponential time complexity; grows exponentially with the input size.
