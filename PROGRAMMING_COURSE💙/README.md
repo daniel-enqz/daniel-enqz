@@ -87,6 +87,6 @@ def print_sums(arr):
 This is a great illustration of how the specific details of a loop can affect the actual running time, even though the Big O notation might be the same. It's these nuances that can make algorithm analysis both challenging and interesting!
 
 ## Measuring Space Complexity:
-
+> big O notation describes growth rates, not absolute values), so input usually omitted to simplify the analysis.
 - Constant Space O(1)): The amount of memory used by the algorithm does not depend on the size of the input n.
 - Linear Space O(n)): The amount of memory grows linearly with the input size. An example would be creating a new array of the same size as the input.
