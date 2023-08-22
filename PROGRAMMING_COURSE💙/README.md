@@ -37,7 +37,9 @@ arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
 ```python
-# Time complexity is always O(n) as we will do on operation n times. But it will be slower as the operation inside is bigger, still this is always 500,000, meaning is fixed. The cost is bigger, bit the algorith ends upd doing the operation n times, always
+# Time complexity is always O(n) as we will do on operation n times.
+# But it will be slower as the operation inside is bigger, still this is always 500,000, meaning is fixed.
+# The cost is bigger, but the algorithm ends up doing the operation n times, always.
 
 def only_one_cool_operation(arr):
   for number in arr:
