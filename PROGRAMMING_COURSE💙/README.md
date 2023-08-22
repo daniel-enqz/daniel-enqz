@@ -24,9 +24,9 @@ arr = [8, 4, 5, 1. 2]
 1. O(1): Constant time complexity. It doesnt change with the size of the input
 2. O(log n): Logarithmic time complexity; grows logarithmically as the input size grows.
 > A logarithm is the inverse operation to exponents.<br>
-> O(logn) means that somewhere in your algorithm, the input is being reduced by a percentage at every step.<br>
-> This means that if your input is size n, then the algorithm will perform x operations, where `2^x = n`<br>
-> After the first step, we only consider n / 2 elements. After the second step, we only consider n / 4 elements, and so on. <br>
+- O(logn) means that somewhere in your algorithm, the input is being reduced by a percentage at every step.
+- This means that if your input is size n, then the algorithm will perform x operations, where `2^x = n`<br>
+- After the first step, we only consider n / 2 elements. After the second step, we only consider n / 4 elements, and so on. <br>
 
 4. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
 
