@@ -22,8 +22,9 @@ arr = [8, 4, 5, 1. 2]
 </p>
 
 1. O(1): Constant time complexity. It doesnt change with the size of the input.
-2. O(log n):
-3. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
+2. O(log n): Logarithmic time complexity; grows logarithmically as the input size grows.
+   > Logarithmic time complexity; grows logarithmically as the input size grows.
+4. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
 
 ```python
 # Time complexity is always O(n) as we will do on operation n times.
