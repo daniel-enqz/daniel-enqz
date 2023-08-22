@@ -29,7 +29,7 @@ arr = [8, 4, 5, 1. 2]
 - In other words, after k steps, the input size is reduced to `n/2^k`
 - After the first step, we only consider n / 2 elements. After the second step, we only consider n / 4 elements, and so on. <br>
 
-4. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
+3. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
 
 ```python
 # Time complexity is always O(n) as we will do on operation n times.
@@ -57,10 +57,10 @@ arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
 
-5. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
+4. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
 > A common time complexity is O(n⋅logn), which is reasonably fast for most problems and also the time complexity of efficient sorting algorithms.
 
-7. O(n^2): Quadratic time complexity; grows quadratically with the input size.
+5. O(n^2): Quadratic time complexity; grows quadratically with the input size.
 
 ```python
 def quadratic_example(arr):
@@ -83,5 +83,5 @@ def print_sums(arr):
 
 This is a great illustration of how the specific details of a loop can affect the actual running time, even though the Big O notation might be the same. It's these nuances that can make algorithm analysis both challenging and interesting!
 
-7. O(2^n): Exponential time complexity; grows exponentially with the input size.
+6. O(2^n): Exponential time complexity; grows exponentially with the input size.
 
