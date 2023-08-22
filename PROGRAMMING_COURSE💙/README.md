@@ -1,12 +1,13 @@
 # Algorithms and Data Structures 🥇
 ---
-## Must watch resources:
+## Other resources:
 - **[Guide in writing clean code](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/👍CLEAN_CODE)** <br>
 - **[Data Structures](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/DATA_STRUCTURESS)** <br>
 - **[Object Oriented Design (OOP)](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)**
 ---
 
-## Basic Rules
+## Measuring Time Complexity:
+### Basic Rules
 ✅ **"When writing algorithms, we need a tool that helps us see how they will perform as the problem size increases"** <br>
 ✅ **"We use asymptotic notation to see the relationship between the input size (n) and the number of operations,"** <br>
 ✅ **"Remember 'n' is the length of the input. "** <br>
