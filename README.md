@@ -7,7 +7,7 @@
   <br>
   🐠 Like playing with languages such as Go, Python and Ruby. 🐠
   <br>
-  ✈️ Enjoy planning and developing application architecture features. ✈️
+  ✈️ Enjoy planning and developing application features. ✈️
   <br>
   🍁 Passionate for creating programming tutorials and enhancing my dotfiles setup. 🍁
   <br>
