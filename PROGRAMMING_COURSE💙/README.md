@@ -6,6 +6,12 @@
 - **[Object Oriented Design (OOP)](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)**
 ---
 
+
+<p align="center">
+  <img src="assets/graph.jpeg" />
+</p>
+
+
 ## Basic Rules
 ✅ **"When writing algorithms, we need a tool that helps us see how they will perform as the problem size increases"** <br>
 ✅ **"We use asymptotic notation to exclude less important cases"** <br>
@@ -16,21 +22,10 @@ arr = [8, 4, 5, 1. 2]
 # n will be 5
 ```
 
-
-<p align="center">
-  <img src="assets/complexity.png" />
-</p>
-
 ## Running Time Rules (fastest(1) to slower(6)) (VARIES DEPENDING ON THE INPUT) ⏩
 1. O(1): Constant time complexity. It doesnt change with the size of the input.
 2. O(log n):
 3. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
-
-
-
-<p align="center">
-  <img src="assets/graph.jpeg" />
-</p>
 
 ## Searching 🔎
 > **Binary Search:**
