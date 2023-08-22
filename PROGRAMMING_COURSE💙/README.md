@@ -23,6 +23,10 @@ arr = [8, 4, 5, 1. 2]
 
 1. O(1): Constant time complexity. It doesnt change with the size of the input.
 2. O(log n): Logarithmic time complexity; grows logarithmically as the input size grows.
+> This means that if your input is size n, then the algorithm will perform x operations, where 
+`2^x = n`
+> O(logn) means that somewhere in your algorithm, the input is being reduced by a percentage at every step.
+
 > A logarithm is the inverse operation to exponents.
 
 4. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
@@ -54,13 +58,7 @@ only_one_cool_operation(arr)
 ```
 
 5. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
-
 > A common time complexity is O(n⋅logn), which is reasonably fast for most problems and also the time complexity of efficient sorting algorithms.
-> This means that if your input is size n, then the algorithm will perform x operations, where 
-`2^x = n`
-
-> O(logn) means that somewhere in your algorithm, the input is being reduced by a percentage at every step.
-> 
 
 7. O(n^2): Quadratic time complexity; grows quadratically with the input size.
 
