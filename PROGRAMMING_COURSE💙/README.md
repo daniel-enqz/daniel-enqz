@@ -1,4 +1,4 @@
-# Algorithms and Data Structures 🥇
+# Introduction to big O 🥇
 ---
 ## Other resources:
 - **[Guide in writing clean code](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/👍CLEAN_CODE)** <br>
