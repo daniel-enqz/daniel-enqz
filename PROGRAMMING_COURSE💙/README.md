@@ -59,6 +59,8 @@ only_one_cool_operation(arr)
 
 4. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
 > A common time complexity is O(n⋅logn), which is reasonably fast for most problems and also the time complexity of efficient sorting algorithms.
+- Its like combing process of O(n) and O(logn).
+- Usually algorithms like Merge Sort that process an entire output in linear time O(n) but A logarithmic process O(logn) that's performed within each iteration of the linear process.
 
 5. O(n^2): Quadratic time complexity; grows quadratically with the input size.
 
