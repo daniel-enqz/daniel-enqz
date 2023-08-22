@@ -61,5 +61,17 @@ def quadratic_example(arr):
       print(i, j)
 ```
 
+```python
+# This algorithm does have two nested loops, but the inner loop does not always iterate n times 
+# The inner loop will do less iterations as i increases. e.g. (When i = 2, inner loop runs n - 2 times.)
+
+def print_sums(arr):
+    for i in range(len(arr)):
+        for j in range(i, len(arr)):
+            print(arr[i] + arr[j])
+```
+
+This is a great illustration of how the specific details of a loop can affect the actual running time, even though the Big O notation might be the same. It's these nuances that can make algorithm analysis both challenging and interesting!
+
 7. O(2^n): Exponential time complexity; grows exponentially with the input size.
 
