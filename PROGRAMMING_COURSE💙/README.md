@@ -51,9 +51,15 @@ arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
 
-
-  
 5. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
 6. O(n^2): Quadratic time complexity; grows quadratically with the input size.
+
+```python
+def quadratic_example(arr):
+  for i in arr:
+    for j in arr:
+      print(i, j)
+```
+
 7. O(2^n): Exponential time complexity; grows exponentially with the input size.
 
