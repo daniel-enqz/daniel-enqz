@@ -54,7 +54,15 @@ only_one_cool_operation(arr)
 ```
 
 5. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
-6. O(n^2): Quadratic time complexity; grows quadratically with the input size.
+
+> A common time complexity is O(n⋅logn), which is reasonably fast for most problems and also the time complexity of efficient sorting algorithms.
+> This means that if your input is size n, then the algorithm will perform x operations, where 
+`2^x = n`
+
+> O(logn) means that somewhere in your algorithm, the input is being reduced by a percentage at every step.
+> 
+
+7. O(n^2): Quadratic time complexity; grows quadratically with the input size.
 
 ```python
 def quadratic_example(arr):
