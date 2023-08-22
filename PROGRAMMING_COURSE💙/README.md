@@ -86,7 +86,7 @@ def print_sums(arr):
 
 This is a great illustration of how the specific details of a loop can affect the actual running time, even though the Big O notation might be the same. It's these nuances that can make algorithm analysis both challenging and interesting!
 
-6. O(2^n): Exponential time complexity; grows exponentially with the input size.
-- Means that the number of operations doubles with each additional element in the input.
-- If you have 1 element, you might perform 2 operations. If you have 2 elements, you might perform 4 operations. If you have 3 elements, you might perform 8
-- Memorization, recurssion, dynamic programming helps reducing the exponetial growth of operations
+## Measuring Space Complexity:
+
+> Constant Space O(1)): The amount of memory used by the algorithm does not depend on the size of the input n.
+> Linear Space O(n)): The amount of memory grows linearly with the input size. An example would be creating a new array of the same size as the input.
