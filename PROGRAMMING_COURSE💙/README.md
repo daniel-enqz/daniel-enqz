@@ -88,5 +88,5 @@ This is a great illustration of how the specific details of a loop can affect th
 
 ## Measuring Space Complexity:
 
-> Constant Space O(1)): The amount of memory used by the algorithm does not depend on the size of the input n.
-> Linear Space O(n)): The amount of memory grows linearly with the input size. An example would be creating a new array of the same size as the input.
+- Constant Space O(1)): The amount of memory used by the algorithm does not depend on the size of the input n.
+- Linear Space O(n)): The amount of memory grows linearly with the input size. An example would be creating a new array of the same size as the input.
