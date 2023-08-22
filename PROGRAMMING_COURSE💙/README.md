@@ -51,86 +51,9 @@ arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
 
-## Searching 🔎
-> **Binary Search:**
-> - **_Complexity: (Running Time/Asymptotic Notation)_**
->   - O(log n)
->   - Ω(1)
-> - **_Space Complexty:_**
->   - O(1)
-> - **_Explanation:_**
->   - `Partions array into halves each iteration`
-> - **_Example:_**
 
-```javascript
-// BINARY SEARCH EXAMPLE:
-let array = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,,16,17]
-let targetValue = 15
-let min;
-let max;
+  
+5. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
+6. O(n^2): Quadratic time complexity; grows quadratically with the input size.
+7. O(2^n): Exponential time complexity; grows exponentially with the input size.
 
-for ( let i = o; i < array.length, i++) {
-  guess = Math.floor((min + max) / 2)
-  if (array[guess] === targetValue) {
-    return guess;
-  } else if (array[guess] > targetValue) {
-    max = guess - 1;
-  } else {
-    min = guess +  1;
-  }
-  return -1;
-}
-```
-
-## Sorting 🔀 [ Θ(nlogn) is probably the best time we can achieve]
-<p align="center">
-  <img src="assets/sorting_table.jpeg" />
-</p>
-
-> **Binary Sort:**
-> - **_Complexity:_**
->   - Θ(nlogn)
->   - O(nlogn)
->   - Ω(n)
-> - **_Space Complexty:_**
->   - O(n) No other varieble than themporary is required
-
-> **Selection Sort:**
-> - **_Complexity:_**
->   - Θ(n^2) All cases regardless of the input (Nested Loops)
-> - **_Space Complexty:_**
->   - O(1)
-> - **_Explanation:_**
->   - `This algorithm is called selection sort because it repeatedly selects the next-smallest element and swaps it into place.`
-
-> **Insertion Sort:**
-> - **_Complexity:_**
->   - Θ(n^2)
->   - O(n^2)
->   - Ω(n) (array may be sorted)
-> - **_Space Complexty:_**
->   - (edit here)
-> - **_Explanation:_**
->   - `Having a key and compare it with i'ts left element, if element > than key, slide element to right, insert key when element < key `
-
-> **Quicksort:**
-> - **_Complexity:_**
->   - Θ(nlogn)
->   - O(nlogn)
->   - Ω(n)
-> - **_Space Complexty:_**
->   - O(logn) (average case)
->   - O(n) (worst case)
-> - **_Explanation:_**
->   - `Quicksort is a divide-and-conquer algorithm that selects a 'pivot' element from the array and partitions the other elements into two groups - those less than the pivot and those greater than the pivot. It then recursively sorts the sub-arrays.`
-
-> **Merge Sort:**
-
-> - **_Complexity:_**
->   - Θ(nlogn)
->   - O(nlogn)
->   - Ω(nlogn)
-> - **_Space Complexty:_**
->   - O(n)
-> - **_Explanation:_**
->   - `Merge Sort is a divide-and-conquer algorithm that repeatedly splits the array into halves until each sub-array contains only one element. It then merges the sub-arrays in linear time, combining them into a single, sorted array.`
