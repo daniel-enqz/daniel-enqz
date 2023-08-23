@@ -7,19 +7,23 @@
 # Arrays and Strings
 ![Screenshot 2023-08-22 at 19 37 57](https://github.com/daniel-enqz/daniel-enqz/assets/72522628/011ba3fd-ccbc-40e6-8850-43ccba3894a5)
 
-### The magic of pointers in an Array
-In the next example, if we move each pinter (2) one index in each iteration, the cost of the inner operation will be always constant O(1), meaning that as there's only one iteration happening. We always end up having a time complexity of O(n).
 
+### The magic of pointers in an Array
+
+In the next Palindrome example, if we move each pointer (2) one index in each iteration, the cost of the inner operation will be always constant O(1), meaning that as there's only one iteration happening. We always end up having a time complexity of O(n).
+Also we are always having O(1) space complexity as we are not creating new varaibles relative to the input size.
 
 ```python
-function fn(arr):
+def check_if_palindrome(s):
     left = 0
-    right = arr.length - 1
+    right = len(s) - 1
 
     while left < right:
-        Do some logic here depending on the problem
-        Do some more logic here to decide on one of the following:
-            1. left++
-            2. right--
-            3. Both left++ and right--
+        if s[left] != s[right]:
+            return False
+        left += 1
+        right -= 1
+    
+    return True
 ```
+
