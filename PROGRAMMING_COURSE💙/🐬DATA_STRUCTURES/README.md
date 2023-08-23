@@ -27,3 +27,31 @@ def check_if_palindrome(s):
     return True
 ```
 
+### An intresting Time Complexity Analysis
+
+This is an example of how we are moving two pointers over two different array, we start by moving both pointers at the same time in the first while loop, the cost of this is always O(1), becasue we are always moving at least one pointer forward.
+At the end we need to ensure that both pointer are at the last index, so we do extra pointer adjustements in only one of the two arrays.
+The complexity is always O(n + m), `because we are always processing each element of each array only once`
+
+
+```python
+function fn(arr1, arr2):
+    i = j = 0
+    while i < arr1.length AND j < arr2.length:
+        Do some logic here depending on the problem
+        Do some more logic here to decide on one of the following:
+            1. i++
+            2. j++
+            3. Both i++ and j++
+
+    // Step 4: make sure both iterables are exhausted
+    // Note that only one of these loops would run
+    while i < arr1.length:
+        Do some logic here depending on the problem
+        i++
+
+    while j < arr2.length:
+        Do some logic here depending on the problem
+        j++
+```
+
