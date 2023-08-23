@@ -10,6 +10,8 @@
 
 ### The magic of pointers in an Array
 
+> Two pointers just refers to using two integer variables to move along some iterables. The strategies we looked at in this article are the most common patterns, but always be on the lookout for a different way to approach a problem. There are even problems that make use of "three pointers".
+
 In the next Palindrome example, if we move each pointer (2) one index in each iteration, the cost of the inner operation will be always constant O(1), meaning that as there's only one iteration happening. We always end up having a time complexity of O(n).
 Also we are always having O(1) space complexity as we are not creating new varaibles relative to the input size.
 
