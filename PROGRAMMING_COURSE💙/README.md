@@ -30,7 +30,7 @@ arr = [8, 4, 5, 1. 2]
 - In other words, after k steps, the input size is reduced to `n/2^k`
 - After the first step, we only consider n / 2 elements. After the second step, we only consider n / 4 elements, and so on. <br>
 
-3. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input.
+3. O(n): Linear time complexity; grows linearly with the input size. Meaning you will do ceartain stuff, n times. n always being fixed by the length of the input. 
 
 ```python
 # Time complexity is always O(n) as we will do on operation n times.
@@ -57,6 +57,8 @@ def only_one_cool_operation(arr):
 arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
+>  The number of operations is directly proportional to the input size <br>
+
 > Check this interesting Pointers [example](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#an-intresting-time-complexity-analysis).
 
 
