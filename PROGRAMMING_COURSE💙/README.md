@@ -57,6 +57,8 @@ def only_one_cool_operation(arr):
 arr = [8, 4, 5, 1. 2]
 only_one_cool_operation(arr)
 ```
+> Check this interesting Pointers [example](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#an-intresting-time-complexity-analysis).
+
 
 4. O(n log n): Linearithmic time complexity; grows more than linear but less than quadratic.
 > A common time complexity is O(n⋅logn), which is reasonably fast for most problems and also the time complexity of efficient sorting algorithms.
