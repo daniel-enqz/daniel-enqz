@@ -57,4 +57,4 @@ function fn(arr1, arr2):
         j++
 ```
 
-### Sliding Window
+### Sliding window
