@@ -1,9 +1,9 @@
 # ARRAYS
 
 ### Directory
-- [Arrays and Strings](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS#arrays-and-strings)
-    - [The magic of pointers in an Array](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS#The-magic-of-pointers-in-an-Array)
-    - [Slinding Window](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS#Sliding-window)
+- [Arrays and Strings](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS/README.md#arrays-and-strings)
+    - [The magic of pointers in an Array](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS/README.md#The-magic-of-pointers-in-an-Array)
+    - [Slinding Window](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/ARRAYS/README.md#Sliding-window)
 
 # Arrays and Strings
 ![Screenshot 2023-08-22 at 19 37 57](https://github.com/daniel-enqz/daniel-enqz/assets/72522628/011ba3fd-ccbc-40e6-8850-43ccba3894a5)
