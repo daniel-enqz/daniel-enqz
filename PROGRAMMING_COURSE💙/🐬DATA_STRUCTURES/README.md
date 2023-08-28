@@ -3,13 +3,15 @@
 
 ### Directory
 - [Arrays and Strings](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#arrays-and-strings)
+    - [The magic of pointers in an Array](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#The-magic-of-pointers-in-an-Array)
 
+    
 # Arrays and Strings
 ![Screenshot 2023-08-22 at 19 37 57](https://github.com/daniel-enqz/daniel-enqz/assets/72522628/011ba3fd-ccbc-40e6-8850-43ccba3894a5)
 
 
-### The magic of pointers in an Array
 
+### The magic of pointers in an Array
 > Two pointers just refers to using two integer variables to move along some iterables. There are even problems that make use of "three pointers".
 
 In the next Palindrome example, if we move each pointer (2) one index in each iteration, the cost of the inner operation will be always constant O(1), meaning that as there's only one iteration happening. We always end up having a time complexity of O(n).
