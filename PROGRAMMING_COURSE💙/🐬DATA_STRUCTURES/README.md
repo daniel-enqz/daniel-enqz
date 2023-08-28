@@ -4,12 +4,10 @@
 ### Directory
 - [Arrays and Strings](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#arrays-and-strings)
     - [The magic of pointers in an Array](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#The-magic-of-pointers-in-an-Array)
+    - [Slinding Window](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/README.md#Sliding-window)
 
-    
 # Arrays and Strings
 ![Screenshot 2023-08-22 at 19 37 57](https://github.com/daniel-enqz/daniel-enqz/assets/72522628/011ba3fd-ccbc-40e6-8850-43ccba3894a5)
-
-
 
 ### The magic of pointers in an Array
 > Two pointers just refers to using two integer variables to move along some iterables. There are even problems that make use of "three pointers".
