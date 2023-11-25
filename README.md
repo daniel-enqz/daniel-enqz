@@ -18,7 +18,7 @@
 
 ### Programming Guides
 >- [💙 Essentials](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
->- [🎽 Dotfiles Config](https://github.com/daniel-enqz/dotfiles) | Worked on my terminal dotfiles config files using Shell, Zim and Neovim<br>
+>- [🎽 Dotfiles Config](https://github.com/daniel-enqz/daniel-enqz/blob/main/DOTFILES.md) | Worked on my terminal dotfiles config files using Shell, Zim and Neovim<br>
 >- [🐳 Docker Tutorial](https://github.com/daniel-enqz/ruby-corners-100/tree/master/DOCKER_IN_RAILS%20)<br>
 >- [🧢 OOP Course](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)<br>
 >- [🧞‍♂️ Design Patterns](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN/🍀%20DESIGN_PATTERNS)<br>
