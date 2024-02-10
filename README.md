@@ -3,7 +3,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
 
 <p align="center">
-  ☁️ Ruby on Rails Developer, currently learning more about Cloud Computing. ☁️
+  ☁️ Ruby on Rails Developer, currently learning more about Cloud Computing and System Design ☁️
   <br>
   🐠 Like playing with languages such as Go, Python and Ruby. 🐠
   <br>
