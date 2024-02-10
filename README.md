@@ -35,14 +35,6 @@
 >- [🍔 UberEats Architecture](https://github.com/daniel-enqz/daniel-enqz/tree/main/projects/FoodDelivery) | Builded command line application using MVC model and mirroring ruby on rails behavior, to manage restaurant orders.<br>
 >- [👍 Ruby Refactor](https://github.com/daniel-enqz/GildedRoseRefactor) | Exercise in ruby to follow good practices and design patterns<br>
   
-### Rails
->- [📆 Akord.me](https://github.com/daniel-enqz/akord) | Simply get together<br>
->- [🏠 AirBnB clone](https://github.com/daniel-enqz/studio) but with Music Studios!!!<br>
->- [🍿 Share your favourite movies](https://github.com/daniel-enqz/rails-watch-list) with your friends!!!<br>
->- [💃 Rails](https://github.com/stars/daniel-enqz/lists/rails) | Multiple small rails applications to practice principles and best practices.<br> 
->- [🍍 Front-end](https://github.com/stars/daniel-enqz/lists/web) | Multiple deployed apps in GH pages, for practicing front-end.<br> 
-</p>
-
 
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
