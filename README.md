@@ -5,13 +5,13 @@
 <p align="center">
   ☁️ Ruby on Rails Developer, currently learning more about Cloud Computing and System Design ☁️
   <br>
-  🐠 Like playing with languages such as Go, Python and Ruby. 🐠
+  🐠 Like playing with languages such as Clojure, Go, Python and Ruby. 🐠
   <br>
   ✈️ Enjoy planning and developing application features. ✈️
   <br>
   🍁 Passionate for creating programming tutorials and enhancing my dotfiles setup. 🍁
   <br>
-  🚚 Lead Teacher at LeWagon and Software Dev at Kublau 🚚
+  💜 Software Engineer at Nubank 💜
   <br>
   <br>
   
