@@ -25,6 +25,7 @@
 >- [🚎 Data Structures](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES)<br>
 >- [🦕 Testing in Rails](https://github.com/daniel-enqz/ruby-corners-100/tree/master/TDD)<br>
 >- [🧵 Everything about Ruby](https://github.com/daniel-enqz/ruby-corners-100)<br>
+>- [🫐 Clojure Pall](https://github.com/daniel-enqz/clojure-noob)<br>
    
 
 ### Command Line applications.
