@@ -14,11 +14,11 @@
 
 | Concept | Definition |
 | --- | --- |
-| Classes and Objects | Class is a blueprint for creating objects, objects are instances of classes |
-| Inheritance | When classes inherit behavior and state from parent class |
-| Encapsulation | Hiding the implementation details of a class from the outside world, using private or read/write methods. |
-| Abstraction | Is about simplifying complex systems by modeling classes based on the essential properties and behaviors. |
-| Polymorphism | It's when objects of different types can be accessed through the same interface. |
+| Classes and Objects | Class is a blueprint for creating objects, objects are instances of classes | Athlete&nbsp;class defines attributes and methods;&nbsp;footballer&nbsp;and&nbsp;basketballer&nbsp;are object instances. |
+| Inheritance | When classes inherit behavior and state from parent class | Footballer&nbsp;and&nbsp;Basketballer&nbsp;inherit properties and methods from&nbsp;Athlete. |
+| Encapsulation | Hiding the implementation details of a class from the outside world, using private or read/write methods. | Attributes are private; accessed via getter/setter methods (especially in Java version). |
+| Abstraction | Is about simplifying complex systems by modeling classes based on the essential properties and behaviors. | Athlete&nbsp;class defines abstract&nbsp;play()&nbsp;method, hiding implementation details. |
+| Polymorphism | It's when objects of different types can be accessed through the same interface. | play()&nbsp;method behaves differently for&nbsp;Footballer&nbsp;and&nbsp;Basketballer, despite same method name. |
 
 ```ruby
 class Athlete
