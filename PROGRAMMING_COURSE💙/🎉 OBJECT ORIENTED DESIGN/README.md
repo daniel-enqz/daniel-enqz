@@ -12,8 +12,8 @@
 
 ### Basics
 
-| Concept | Definition |
-| --- | --- |
+| Concept | Definition | Usage |
+| --- | --- | --- |
 | Classes and Objects | Class is a blueprint for creating objects, objects are instances of classes | Athlete&nbsp;class defines attributes and methods;&nbsp;footballer&nbsp;and&nbsp;basketballer&nbsp;are object instances. |
 | Inheritance | When classes inherit behavior and state from parent class | Footballer&nbsp;and&nbsp;Basketballer&nbsp;inherit properties and methods from&nbsp;Athlete. |
 | Encapsulation | Hiding the implementation details of a class from the outside world, using private or read/write methods. | Attributes are private; accessed via getter/setter methods (especially in Java version). |
