@@ -12,9 +12,6 @@
   💜 Software Engineer at Nubank 💜
   <br>
   <br>
-  
->- 🌱 **[CV](https://drive.google.com/file/d/1B2X-FlptW8lUyRyyMEgdDKavO-joN2T_/view?usp=share_link)**
->- 🌱 **[PROJECTS](https://drive.google.com/file/d/1B2X-FlptW8lUyRyyMEgdDKavO-joN2T_/view?usp=share_link)**
 
 ### Programming Guides
 >- [💙 Essentials](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
