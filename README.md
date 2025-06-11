@@ -1,16 +1,13 @@
-<h3 align="center">Welcome! :eyes:</h3>
+<h3 align="center">hello :eyes:</h3>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg">
 
 <p align="center">
-  ☁️ Software Engineer, currently learning more about Cloud Computing and System Design ☁️
+  Software Engineer at Nubank, currently learning more about Cloud Computing and System Design.
   <br>
-  🐠 Like playing with languages such as Clojure, Go, Python and Ruby. 🐠
+  Like playing with languages such as Clojure, Go, Python and Ruby.
   <br>
-  🍁 Passionate for creating programming tutorials and enhancing my dotfiles setup. 🍁
-  <br>
-  💜 Software Engineer at Nubank 💜
-  <br>
+  Passionate for creating programming tutorials and enhancing my dotfiles setup
   <br>
 
 ### Programming Guides
