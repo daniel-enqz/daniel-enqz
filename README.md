@@ -1,35 +1,10 @@
-<h3 align="center">hello :eyes:</h3>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{daniel-enqz}/count.svg">
-
 <p align="center">
-  Software Engineer at Nubank, currently learning more about Cloud Computing and System Design.
+  Hello, Im a software engineer at nubank. Enojoy a lot Cloud Computing and System Design.
   <br>
   Like playing with languages such as Clojure, Go, Python and Ruby.
   <br>
-  Passionate for creating programming tutorials and enhancing my dotfiles setup
+  Passionate for creating products, working on my Homelab, creating programming tutorials and enhancing my dotfiles setup
   <br>
-
-### Programming Guides
->- [💙 Essentials](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙) | Currently building an algorithm and data structures course in a GitHub repository, with exercises, algorithmic explanations and examples.<br>
->- [🎽 Dotfiles Config](https://github.com/daniel-enqz/daniel-enqz/blob/573cf98d02c68803db0514fd63f1634128de4e5d/DOTFILES.md) | Worked on my terminal dotfiles config files using Shell, Zim and Neovim<br>
->- [🐳 Docker Tutorial](https://github.com/daniel-enqz/ruby-corners-100/tree/master/DOCKER_IN_RAILS%20)<br>
->- [🧢 OOP Course](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)<br>
->- [🧞‍♂️ Design Patterns](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN/🍀%20DESIGN_PATTERNS)<br>
->- [🚎 Data Structures](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES)<br>
->- [🦕 Testing in Rails](https://github.com/daniel-enqz/ruby-corners-100/tree/master/TDD)<br>
->- [🧵 Everything about Ruby](https://github.com/daniel-enqz/ruby-corners-100)<br>
->- [🫐 Clojure Pall](https://github.com/daniel-enqz/clojure-noob)<br>
-   
-
-### Command Line applications.
->- [🥇 Grading System](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/💻Excercises/C/readability.c) | Created "C" command-line program that grades writing ability. Computed by the Coleman-Liau formula, rounded to the nearest integer.<br>
->- [💳 Credit Card Detector](https://github.com/daniel-enqz/daniel-enqz/blob/main/PROGRAMMING_COURSE💙/💻Excercises/C/credit.c) | Created "C" a command-line program that receives a credit card number, and returns weather the card is AMEX, MasterCard or Visa.<br>
->- [🤔 Collatz Conjecture](https://github.com/daniel-enqz/daniel-enqz/tree/main/projects/CollatzConjecture) | Sequentially applies the Collatz Conjecture to an x number and returns how many steps it took to reach integer 1; stores the sequence in memory.<br>
->- [🌳 BINARY TREE IN RUBY](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🐬DATA_STRUCTURES/TREES) | Builded a command line binary tree explanation. Make your own tree!!!<br>
->- [🍔 UberEats Architecture](https://github.com/daniel-enqz/daniel-enqz/tree/main/projects/FoodDelivery) | Builded command line application using MVC model and mirroring ruby on rails behavior, to manage restaurant orders.<br>
->- [👍 Ruby Refactor](https://github.com/daniel-enqz/GildedRoseRefactor) | Exercise in ruby to follow good practices and design patterns<br>
-  
 
 <h3 align="center">Where to reach me....</h2>
 <p align="center">
