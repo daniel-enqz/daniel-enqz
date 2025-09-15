@@ -1,12 +1,11 @@
 <p align="center">
-  Hello, Im a software engineer at nubank. Enojoy a lot Cloud Computing and System Design.
-  <br>
-  Like playing with languages such as Clojure, Go, Python and Ruby.
-  <br>
-  Passionate for creating products, working on my Homelab, creating programming tutorials and enhancing my dotfiles setup
+This field brings me true joy—there's nothing quite like the passion that comes from creating things.<br>
+As a Software Engineer, my experience spans building, deploying, and managing monolith and microservices applications.<br>
+System Design, Cloud Computing, Bash, Clojure, Go, Python and Ruby are my favorite playground.<br>
+Passionate about creating products, teaching, and refining my dotfiles and homelab setup.
   <br>
 
-<h3 align="center">Where to reach me....</h2>
+<h3 align="center">Where to reach me....</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/daniel-enqz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:dan17.em@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
