@@ -7,16 +7,6 @@
 ### Open 10 terminals in less than 1 second ⚡️⚡️⚡️
 <img width="1512" alt="Screenshot 2024-03-17 at 2 36 12 a m" src="https://github.com/daniel-enqz/dotfiles/assets/72522628/902f695c-d53a-4a46-9c9b-150f34c34a4e">
 
-
-# Installation
-> 1. Check for zsh installation `zsh --version`
-> 2. Uninstall any other framework you may have installed (Ex. `uninstall_oh_my_zsh`)
-> 3. Set Zsh as the default shell, if you haven't done so already: `chsh -s $(which zsh)`
-> 5. `cd ~ && git clone git@github.com:daniel-enqz/dotfiles.git`
-> 4. `sh .dotfiles/startup/startup.sh`
-
-## 🎉 You are all set!!! Check the following resources:
-
 ### 🪴 About ZIM:
 
 - zimfw plugin manager installs modules at `~/.zim/modules`.
