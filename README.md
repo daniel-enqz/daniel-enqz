@@ -2,8 +2,11 @@
 This field brings me true joy—there's nothing quite like the passion that comes from creating things.<br>
 As a Software Engineer, my experience spans building, deploying, and managing monolith and microservices applications.<br>
 System Design, Cloud Computing, Bash, Clojure, Go, Python and Ruby are my favorite playground.<br>
-Passionate about creating products, teaching, and refining my dotfiles and homelab setup.
-  <br>
+Passionate about creating products, teaching, and refining my dotfiles and homelab setup.<br>
+</p>
+
+Some repos
+> Open 10 terminals in 1 second, my [dotfiles setup](https://github.com/daniel-enqz/daniel-enqz/blob/main/DOTFILES.md)
 
 <h3 align="center">Where to reach me....</h3>
 <p align="center">
