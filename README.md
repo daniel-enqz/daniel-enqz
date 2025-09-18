@@ -6,9 +6,9 @@ Passionate about creating products, teaching, and refining my dotfiles and homel
 </p>
 
 Some repos
-> Open 10 terminals in 1 second, my [dotfiles setup](https://github.com/daniel-enqz/daniel-enqz/blob/main/DOTFILES.md)
-> Big O complexity [explanation](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙)
-> Object Oriented Design [explanation](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)
+> Open 10 terminals in 1 second, my [dotfiles setup](https://github.com/daniel-enqz/daniel-enqz/blob/main/DOTFILES.md)<br>
+> Big O complexity [explanation](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙)<br>
+> Object Oriented Design [explanation](https://github.com/daniel-enqz/daniel-enqz/tree/main/PROGRAMMING_COURSE💙/🎉%20OBJECT%20ORIENTED%20DESIGN)<br>
 
 <h3 align="center">Where to reach me....</h3>
 <p align="center">
