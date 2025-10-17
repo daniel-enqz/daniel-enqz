@@ -17,3 +17,5 @@ Some repos
 <a href="https://twitter.com/Daniel__enqz"><img src="https://img.shields.io/badge/daniel_enqz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
+
+<img width="1065" height="659" alt="terminal" src="https://github.com/user-attachments/assets/f59647a9-b5c0-4b3a-8884-8d8d26aec463" />
