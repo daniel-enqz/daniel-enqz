@@ -83,6 +83,8 @@ https://github.com/daniel-enqz/daniel-enqz/blob/70be43cc7b2274693b68093e9db26fae
 
 <img width="1512" height="982" alt="Screenshot 2025-10-16 at 8 20 47 p m" src="https://github.com/user-attachments/assets/8c97270a-f7dc-483c-85a2-ce04da0570c4" />
 
-The spark, though, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
+
+
+The spark, at the end, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
 
 I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. They exist for a reason. But recently I've leaned toward working with the absolute minimum. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. 
