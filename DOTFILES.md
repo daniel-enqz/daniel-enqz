@@ -60,8 +60,7 @@ Just call: `ipython`.
 
 Your other zsh sessions don't have to depend on initializing heavy dependencies you won't use.
 
-```
-# PYTHON
+```bash
 function ipython() {
   # Load pyenv if installed (to manage your Python versions)
   export PATH="${HOME}/.pyenv/bin:${PATH}" # Needed for Linux/WSL
@@ -69,7 +68,6 @@ function ipython() {
 }
 #ipython
 
-# RUBY
 function iruby() {
   # Load rbenv if installed (to manage your Ruby versions)
   export PATH="${HOME}/.rbenv/bin:${PATH}" # Needed for Linux/WSL
