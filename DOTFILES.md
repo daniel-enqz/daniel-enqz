@@ -43,6 +43,15 @@ Maybe 25 opens is too much for you, maybe too low. Some people use TMUX and spin
 
 I don't use any framework (despite amazingly fast ones like [zim](https://github.com/zimfw/zimfw)). I also don't use any built-in editor like nvim or lvim (again, despite them being simple on their own and achieving amazing setups with super useful plugins and functionalities). I try to keep my plugins minimal and everything easy to access. If I open a functions file and it's 500 lines long and I don't even remember what my setup can do, maybe something needs rethinking.
 
+
+For example this is my .zshrc
+
+Just te bare minimum, importing just the needed files, only one plugin..
+
+
+<img width="1223" height="793" alt="Screenshot 2025-10-16 at 9 16 20 p m" src="https://github.com/user-attachments/assets/77071a09-ed47-40f3-ba4e-93e66c809ed9" />
+
+
 In other sections, this is my complete `imports.zsh` file, which showcases the beauty of lazy loading...
 
 You can load/import Python, Node, Ruby, etc. at your discretion. For example, when you know it'll be a day you'll use it heavily, when you're on a project where it's needed 24/7, or by running a simple command.
@@ -84,7 +93,22 @@ https://github.com/daniel-enqz/daniel-enqz/blob/70be43cc7b2274693b68093e9db26fae
 <img width="1512" height="982" alt="Screenshot 2025-10-16 at 8 20 47 p m" src="https://github.com/user-attachments/assets/8c97270a-f7dc-483c-85a2-ce04da0570c4" />
 
 
-The spark, at the end, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
+I also have my own function to build my custom prompt.
+> ~/.dotfiles/main (main) ●
 
-I'm not saying other tools aren't useful, that's why thousands of hours have been put into maintaining them. But for example, Vim is already amazing on its own, in its pure form. The learning curve pays exponential dividends long-term. All these tools, plugins, and frameworks exist for a reason—their value is noticeable within the first minutes of using them. But recently I've leaned toward working with the absolute minimum, not only with software, but in life in general. When you give yourself time to remove stuff, you notice you don't need much. So aim to reduce all the noise so you can focus on your signal, what truly matters to you. Keep your dotfiles simple.
+
+<img width="1264" height="817" alt="Screenshot 2025-10-16 at 9 15 18 p m" src="https://github.com/user-attachments/assets/2fd0dc98-e2e3-4fca-96a5-2deb6bddd8d1" />
+
+
+---
+
+The spark, at the end, comes with two things:
+1. That pull towards building; creating something simple fully maintained by you.
+2. Mental clarity in your workflow - knowing where everything is, simple files, simple imports, simple setup.
+
+---
+
+I'm not saying other tools aren't useful - that's why thousands of hours have been put into maintaining them. But for example, Vim is already amazing on its own, in its pure form. The learning curve pays exponential dividends long-term. All these tools, plugins, and frameworks exist for a reason - their value is noticeable within the first minutes of using them. But recently I've leaned toward working with the absolute minimum, not only with software, but in life in general. When you give yourself time to remove stuff, you notice you don't need much. So aim to reduce all the noise so you can focus on your signal, what truly matters to you; build something that expresses your truth and seek clarity.
+
+Keep your dotfiles simple.
 
