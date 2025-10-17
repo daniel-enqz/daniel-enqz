@@ -47,8 +47,13 @@ I don't use any framework (despite amazingly fast ones like zim). I also don't u
 
 I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. They exist for a reason. But recently I've leaned toward working with the absolute minimum. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. 
 
-For instance, this is my complete `imports.zsh` file...
+For instance, this is my complete `imports.zsh` file, which showcases the beauty of lazy loading...
 
+You can load/import Python, Node, Ruby, etc. at your discretion. For example, when you know it'll be a day you'll use it heavily, when you're on a project where it's needed 24/7, or by running a simple command.
+
+Just call: `ipython`.
+
+Your other zsh sessions don't have to depend on initializing heavy dependencies you won't use.
 
 
 ```
@@ -75,6 +80,10 @@ function inode() {
 }
 #inode
 ```
+
+Now this is my `.vimrc` setup
+This single file replaces completley the use of lunarvim or nvim.
+
 
 
 
