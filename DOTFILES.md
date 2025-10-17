@@ -41,20 +41,15 @@ After focusing in the good places to optimize, you can have quick startups of: ~
 
 Maybe 25 opens is too much for you, maybe too low. Some people use TMUX and spin up dozens of panes throughout the day. At the end, quick startups might not be a big concern—but personally, I feel noticeably more efficient when I'm not waiting even a fraction of a second each time I open a pane.
 
-The big thing, though, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
+I don't use any framework (despite amazingly fast ones like [zim](https://github.com/zimfw/zimfw)). I also don't use any built-in editor like nvim or lvim (again, despite them being simple on their own and achieving amazing setups with super useful plugins and functionalities). I try to keep my plugins minimal and everything easy to access. If I open a functions file and it's 500 lines long and I don't even remember what my setup can do, maybe something needs rethinking.
 
-I don't use any framework (despite amazingly fast ones like zim). I also don't use any built-in editor like nvim or lvim (again, despite them being simple on their own and achieving amazing setups with super useful plugins and functionalities). I try to keep my plugins minimal and everything easy to access. If I open a functions file and it's 500 lines long and I don't even remember what my setup can do, maybe something needs rethinking.
-
-I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. They exist for a reason. But recently I've leaned toward working with the absolute minimum. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. 
-
-For instance, this is my complete `imports.zsh` file, which showcases the beauty of lazy loading...
+In other sections, this is my complete `imports.zsh` file, which showcases the beauty of lazy loading...
 
 You can load/import Python, Node, Ruby, etc. at your discretion. For example, when you know it'll be a day you'll use it heavily, when you're on a project where it's needed 24/7, or by running a simple command.
 
 Just call: `ipython`.
 
 Your other zsh sessions don't have to depend on initializing heavy dependencies you won't use.
-
 
 ```
 # PYTHON
@@ -81,9 +76,13 @@ function inode() {
 #inode
 ```
 
-Now this is my `.vimrc` setup
+Now, this is my `.vimrc` setup
 This single file replaces completley the use of lunarvim or nvim.
 
 https://github.com/daniel-enqz/daniel-enqz/blob/70be43cc7b2274693b68093e9db26fae0c27c92c/projects/.vimrc#L2
 
 <img width="1512" height="982" alt="Screenshot 2025-10-16 at 8 20 47 p m" src="https://github.com/user-attachments/assets/8c97270a-f7dc-483c-85a2-ce04da0570c4" />
+
+The spark, though, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
+
+I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. They exist for a reason. But recently I've leaned toward working with the absolute minimum. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. 
