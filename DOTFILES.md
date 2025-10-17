@@ -1,4 +1,4 @@
-# Startup
+# Keep Simplicty In Your Setup
 [![CI](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml/badge.svg)](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml)
 
 Keep your dotfiles simple. You don't need an overengineered setup or overwhelming configuration with complex dependencies—aim for simplicity and less.
