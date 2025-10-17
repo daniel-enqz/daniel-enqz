@@ -84,51 +84,6 @@ function inode() {
 Now this is my `.vimrc` setup
 This single file replaces completley the use of lunarvim or nvim.
 
+https://github.com/daniel-enqz/daniel-enqz/blob/70be43cc7b2274693b68093e9db26fae0c27c92c/projects/.vimrc#L2
 
-
-
-
-
-
-
-
-> I use MacOS Terminal with zsh shell, lvim editor and tmux.<br>
-> We will be using zim, a super fast framework with useful modules and themes without compromising speed. You can check documentation [here](https://github.com/zimfw/zimfw#manual-installation), but if you follow this guide steps you will be all set up.
-
-### Open 10 terminals in less than 1 second ⚡️⚡️⚡️
-<img width="1512" alt="Screenshot 2024-03-17 at 2 36 12 a m" src="https://github.com/daniel-enqz/dotfiles/assets/72522628/902f695c-d53a-4a46-9c9b-150f34c34a4e">
-
-### 🪴 About ZIM:
-
-- zimfw plugin manager installs modules at `~/.zim/modules`.
-- This modules are installed but need to be initialized, so this creates a static script at `~/.zim/init.zsh`
-- The modules you want to use are defined in `~/.zimrc ` (This file just configures our plugin manager zimfw)
-
-So in a nutshell, you can think of `~/.zimrc` as a list of modules you want to use, when you run `zimfw install`, it will download the modules and create a static script at `~/.zim/init.zsh` that will initialize the modules for you.
-
-#### Installing zim Plugins:
-- Add new modules to `~/.zimrc`: `zimfw install`
-- Remove modules from `~/.zimrc`: `zimfw uninstall`
-- Update your modules to their latest revisions: `zimfw update`
-- Upgrade zimfw to its latest version: `zimfw upgrade`
-
-### 🪴 About TMUX:
-
-**Plugin management**
-- `Ctrl + A + Shift + I`: This will install any plugin defined in this file. `(/.dotfiles/config/tmux/.tmux.conf)` 
-- `Ctrl + A + Shift + U`: This will update any plugin defined in this file. `(/.dotfiles/config/tmux/.tmux.conf)`
-- `Ctrl + A + R`: Reload Tmux config file.
-
-**Navigation**
-- `Ctrl + A + S`: See all sessions.
-- `Ctrl + A + W`: See all windows.
-- `Ctrl + A + (J, I, K, L)`: Resize the pane.
-- `Ctrl + A + M`: Maximize pane.
-- `Ctrl + (H, J, K, L)`: Move between panes.
-- `Ctrl + A + (P, N, number)`: Move between windows.
-
-**Creaion and deletion**
-- `Ctrl + A + X`: To close a pane.
-- `Ctrl + A + |`: This will split the window horizontally (creating new panes).
-- `Ctrl + A + -`: This will split the window vertically (creating new panes)
-- `Ctrl + A + C`: This will create a new window.
+<img width="1512" height="982" alt="Screenshot 2025-10-16 at 8 20 47 p m" src="https://github.com/user-attachments/assets/8c97270a-f7dc-483c-85a2-ce04da0570c4" />
