@@ -84,7 +84,7 @@ https://github.com/daniel-enqz/daniel-enqz/blob/70be43cc7b2274693b68093e9db26fae
 <img width="1512" height="982" alt="Screenshot 2025-10-16 at 8 20 47 p m" src="https://github.com/user-attachments/assets/8c97270a-f7dc-483c-85a2-ce04da0570c4" />
 
 
-
 The spark, at the end, comes with mental clarity in your workflow—knowing where everything is, simple files, simple imports, simple setup.
 
-I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. They exist for a reason. But recently I've leaned toward working with the absolute minimum. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. 
+I'm not saying other tools aren't useful—that's why thousands of hours have been put into maintaining them. Vim is already amazing on its own, and the learning curve pays exponential dividends long-term. Those tools exist for a reason. But recently I've leaned toward working with the absolute minimum, not only with software, but in life in general. When you give yourself time to remove stuff, you notice you don't need much. So aim for reducing all the noise so you can focus on your signal, what truly matters to you. Keep your dotfiles simple.
+
