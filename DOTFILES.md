@@ -1,6 +1,10 @@
 # Keep Your Dotfiles Simple
 [![CI](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml/badge.svg)](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml)
 
+
+> This post is also available at [Medium](https://medium.com/@daniel.enm17/keep-your-dotfiles-simple-071aecd80c5d)
+
+
 Keep your dotfiles simple. You don't need an overengineered setup or overwhelming configuration with complex dependencies—aim for simplicity and less.
 
 ```
