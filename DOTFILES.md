@@ -1,6 +1,6 @@
 # Keep Your Dotfiles Simple
 [![CI](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml/badge.svg)](https://github.com/daniel-enqz/dotfiles/actions/workflows/main.yaml)
-[![GitHub stars](https://img.shields.io/github/stars/daniel-enqz/dotfiles?style=social)](https://github.com/daniel-enqz/dotfiles/main)
+[![GitHub stars](https://img.shields.io/github/stars/daniel-enqz/dotfiles?style=social)](https://github.com/daniel-enqz/dotfiles)
 [![Sponsor](https://img.shields.io/badge/♥-Sponsor-fc8dc7)](https://github.com/sponsors/daniel-enqz)
 
 > This post is also available at [Medium](https://medium.com/@daniel.enm17/keep-your-dotfiles-simple-071aecd80c5d)
