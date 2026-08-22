@@ -18,4 +18,5 @@ Some repos
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<img width="1315" height="815" alt="Screenshot 2026-07-14 at 7 36 41 p m" src="https://github.com/user-attachments/assets/b120aa85-85f8-41a6-8384-2d6e48a6b565" />
+<img width="1480" height="917" alt="Screenshot 2026-08-21 at 8 56 49 p m" src="https://github.com/user-attachments/assets/41e349da-efe8-4e8f-bae6-2b8674be6528" />
+
