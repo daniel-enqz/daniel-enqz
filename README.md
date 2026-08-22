@@ -1,8 +1,8 @@
 <p align="center">
-This field brings me true joy—there's nothing quite like the passion that comes from creating things.<br>
+This field brings me true joy, there's nothing quite like the passion that comes from creating things.<br>
 As a Software Engineer, my experience spans building, deploying, and managing monolith and microservices applications.<br>
-System Design, Cloud Computing, Bash, Clojure, Go, Python and Ruby are my favorite playground.<br>
-Passionate about creating products, teaching, and refining my dotfiles and homelab setup.<br>
+System Design, Cloud Computing, Bash, Clojure, Go and Ruby are my favorite playground.<br>
+Passionate about creating products, teaching, and refining my homelab setup.<br>
 </p>
 
 Some repos
