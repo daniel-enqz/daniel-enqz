@@ -1,8 +1,8 @@
 <p align="center">
-This field brings me true joy—there's nothing quite like the passion that comes from creating things.<br>
+This field brings me true joy, there's nothing quite like the passion that comes from creating things.<br>
 As a Software Engineer, my experience spans building, deploying, and managing monolith and microservices applications.<br>
-System Design, Cloud Computing, Bash, Clojure, Go, Python and Ruby are my favorite playground.<br>
-Passionate about creating products, teaching, and refining my dotfiles and homelab setup.<br>
+System Design, Cloud Computing, Bash, Clojure, Go and Ruby are my favorite playground.<br>
+Passionate about creating products, teaching, and refining my homelab setup.<br>
 </p>
 
 Some repos
@@ -18,7 +18,4 @@ Some repos
 <a href="https://www.youtube.com/channel/UCvZjEjGU4CVIrQknOSMfpXQ"><img src="https://img.shields.io/badge/Daniel Enqz-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<img width="1480" height="917" alt="Screenshot 2026-08-21 at 8 56 49 p m" src="https://github.com/user-attachments/assets/41e349da-efe8-4e8f-bae6-2b8674be6528" />
-
 <img src="assets/terminal.png" alt="terminal" />
-
